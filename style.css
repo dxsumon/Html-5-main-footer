@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: linear-gradient(to left, #a692a7, #000000cb);
+}
+h1{
+    word-spacing: 15px;
+    letter-spacing: 10px;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    padding-bottom: 10px;
+    position: relative;
+    text-align: center;
+}
+nav > ul > li{
+    margin-right: 20px;
+    letter-spacing: 2px;
+    display: inline-block;
+    position: relative;
+    left: 75%;
+    top: 20%;
+}
+nav > ul > li > a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    margin-top: 30px;
+    padding-top: 10px;
+    text-align: center;
+}
+.img{
+    padding-top: 30px;
+}
