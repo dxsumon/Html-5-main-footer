@@ -26,6 +26,10 @@ nav > ul > li > a{
     color: white;
     text-decoration: none;
 }
+.text-bold{
+    font-weight: 900;
+    word-spacing: 2px;
+}
 footer{
     margin-top: 30px;
     padding-top: 10px;
@@ -33,4 +37,13 @@ footer{
 }
 .img{
     padding-top: 30px;
+    display: flex;
+}
+p{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+div figure{
+    padding-left: 150px;
 }
